@@ -1,0 +1,26 @@
+
+#clock {
+    font-size: 60px;
+    font-weight: bold;
+    text-align: center;
+  }
+
+  #stopwatch {
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+  }
+
+  #startStop {
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #af4c8c;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }

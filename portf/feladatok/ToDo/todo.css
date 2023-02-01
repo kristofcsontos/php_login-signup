@@ -1,0 +1,33 @@
+#todo-app {
+  width: 500px;
+  margin: 0 auto;
+}
+
+#add-todo-form {
+  display: flex;
+}
+
+#new-todo {
+  flex: 1;
+  padding: 10px;
+  border: none;
+  border-radius: 5px 0 0 5px;
+}
+
+#add-todo-form button {
+  padding: 10px;
+  border: none;
+  background-color: #4CAF50;
+  color: white;
+  border-radius: 0 5px 5px 0;
+}
+
+#todo-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.completed{
+    text-decoration:line-through;
+}
